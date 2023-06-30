@@ -1,0 +1,230 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+/* } 
+.d-block{
+  height:550px;
+  width:100%;
+  display: block;
+}
+
+.rounded{
+  width:50%;
+  border:3px solid white;
+}
+
+
+.img-sluid{
+  width:30%;
+  margin-left:20px;
+}
+.img-luid{
+  width:26%;
+  margin-left:30px;
+}
+.img-cluid{
+  width:40%;
+  margin-top:-20px;
+}
+.card{
+  width:30%;
+}
+.ard{
+ float:center;
+  width:30%;
+}
+.rd{
+ width:30%;
+ float:inline-end;
+}
+.rd-body{
+  float:right;
+  align-items:center;
+  margin-left: auto;
+}*/
+.container{
+  margin-top:50px;
+}
+.nav-item a{
+  text-decoration:none;
+  color:black;
+  margin:5px;
+}
+
+.fnt{
+ text-align: center;
+ justify-content:center;
+ align-items:center;
+ 
+ margin-left:480px;
+}
+.button_container{
+  margin-right:100px;
+}
+.cont{
+  padding:40px;
+}
+.she{
+  border-radius:60%;
+}
+.me{
+  border-radius:60%;
+}
+.he{
+  border-radius:60%;
+}
+.fnt1{
+  text-align: center;
+  justify-content: center;
+}
+.Abt{
+  text-align: center;
+  justify-content: center;
+}
+/* 
+.fnt1{
+  color:black;
+  margin-top:8;
+}
+.card-text{
+  width:50%;
+}
+.card-img{
+  width:50%;
+  border:7px solid white;
+}
+.card-title{
+  font-size:30px;
+  color:white;
+  font-family: 'Poppins', sans-serif;
+font-family: 'Quicksand', sans-serif;
+margin-top: 30px;
+} */
+/* .btn{
+  width:280px;
+  border:3px solid white;
+  border-radius:0px;
+} 
+.card-image{
+  width:50%;
+  margin-left:630px;
+  margin-top:-292px;
+  border:7px solid white;
+}
+.card-battle{
+  font-size:30px;
+  color:white;
+  margin-top:-260px;
+  margin-left:630px;
+  font-family: 'Poppins', sans-serif;
+font-family: 'Quicksand', sans-serif;
+
+}
+.ctn{
+  margin-left:630px;
+  width:280px;
+  border:3px solid white;
+  background:transparent;
+  color:white;
+  height:43px;
+}
+.cards{
+  margin-top:10px;
+}
+.card-img-top{
+  width:300px;
+  margin-top:10px;
+  height:170px;
+  margin-left:30px;
+}
+
+.card2{
+  margin-top:-80px;
+}
+.card-img-middle{
+  width:300px;
+  margin-left:450px;
+  margin-top:-120px;
+}
+.card-img-end{
+  width:370px;
+  margin-left:850px;
+  margin-top:-25px;
+}
+.card3{
+  margin-top:-199px;
+}
+.card-text{
+  margin-left:50px;
+  width:240px;
+  margin-top:-26px;
+}
+.card-next{
+  margin-left:520px;
+  margin-top:-18px;
+  width: 180px;
+}
+.card-rext{
+  margin-left:970px;
+  width:150px;
+  
+  margin-top:7px;
+} */
+
+
+
+
+/* .container{
+  margin-top:120px;
+  display:flex;
+  flex-direction:row;
+  box-sizing:20px;
+}
+.card-img-top{
+  height:420px;
+}
+.card-body{
+  border:none;
+}
+.f2{
+  margin-left:60px;
+}
+.card2{
+  margin-left:60px;
+  border-radius:10px;
+}
+  */
